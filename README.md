@@ -57,7 +57,10 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 # output
 ![Screenshot_384](https://user-images.githubusercontent.com/81457697/141053483-67419e36-3176-43fe-9e3e-d43853980086.png)
 
-
-
+# program 1
+# Membuat program sederhana dengan perulangan 
+# flowchart
+![Screenshot_385](https://user-images.githubusercontent.com/81457697/141057529-34bda7dd-8aa5-49db-9cff-e96ee89fe989.png)
+![Screenshot_386](https://user-images.githubusercontent.com/81457697/141057546-ab05d455-0466-4e8e-9f76-8f6a6e51e179.png)
 
 
