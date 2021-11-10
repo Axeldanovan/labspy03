@@ -51,3 +51,13 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 
 9.print("Bilangan Terbesar Adalah: ", max) - adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
 
+# input 
+![Screenshot_383](https://user-images.githubusercontent.com/81457697/141053464-5666c00b-2576-42eb-aab1-aac3f7e46f1f.png)
+
+# output
+![Screenshot_384](https://user-images.githubusercontent.com/81457697/141053483-67419e36-3176-43fe-9e3e-d43853980086.png)
+
+
+
+
+
