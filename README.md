@@ -22,7 +22,7 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 # input
 ![Screenshot_377](https://user-images.githubusercontent.com/81457697/141039577-69c75647-e19e-47aa-9b26-a227868364d4.png)
 
-#output 
+# output 
 ![Screenshot_378](https://user-images.githubusercontent.com/81457697/141039597-e52879ac-fe02-463e-bdc3-e88d5f9e73c2.png)
 
 # latihan 2
