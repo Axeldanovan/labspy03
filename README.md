@@ -27,3 +27,15 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
  Berikut flowchar untuk program menampilkan bilangan tersbesar dari n buah data yang diinputkan
 ![Screenshot_381](https://user-images.githubusercontent.com/81457697/141052320-f74445bc-b5bf-465a-8f59-8dd6f3f04d71.png)
 ![Screenshot_382](https://user-images.githubusercontent.com/81457697/141052345-af669fe0-ca0c-40ee-9429-e5f40c97364f.png)
+
+# algoritma
+1.print("Menampilkan bilangan terbesar dari n buah data yang diinput") - adalah perintah untuk menampilkan judul program
+2.max = 0 - adalah perintah untuk menampilkan nilai max yang adalah 0
+3.while True: - adalah perintah untuk pengulangan hingga waktu yang tidak ditentukan
+4.a = int(input("Masukkan Bilangan: ")) - adalah perintah untuk menginput nilai integer
+5.if max < a: - adalah perintah untuk tipe data if atau jika, maksimal nilai lebih kecil dari a atau integer
+6.max = a - perintah untuk nilai maximal sama dengan a atau integer
+7.if a ==0: - perintah untuk tipe data if atau jika a sama dengan 0 maka
+8.break - perintah untuk mengakhiri pengulangan, jadi jika menginput nilai 0 maka pengulangan berakhir atau selesai
+9.print("Bilangan Terbesar Adalah: ", max) - adalah perintah untuk menampilkan hasil bilangan yang terbesar dari angka-angka yang telah terinput
+
