@@ -23,7 +23,7 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 ![Screenshot_377](https://user-images.githubusercontent.com/81457697/141039577-69c75647-e19e-47aa-9b26-a227868364d4.png)
 
 # output 
-![Screenshot_378](https://user-images.githubusercontent.com/81457697/141039597-e52879ac-fe02-463e-bdc3-e88d5f9e73c2.png)
+![Screenshot_389](https://user-images.githubusercontent.com/81457697/141061163-ce8ec442-1b17-4f05-ae3b-7f4b98fdb527.png)
 
 # latihan 2
 # Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
@@ -54,7 +54,7 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 ![Screenshot_383](https://user-images.githubusercontent.com/81457697/141053464-5666c00b-2576-42eb-aab1-aac3f7e46f1f.png)
 
 # output
-![Screenshot_384](https://user-images.githubusercontent.com/81457697/141053483-67419e36-3176-43fe-9e3e-d43853980086.png)
+![Screenshot_390](https://user-images.githubusercontent.com/81457697/141061219-f59a44ab-2569-4266-ad52-9d63e006f03a.png)
 
 # program 1
 # Membuat program sederhana dengan perulangan 
