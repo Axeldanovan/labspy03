@@ -95,4 +95,8 @@ z=(a+b+c+d+e+f+g+h) - Z untuk data yang berisi hasil penjumlahan laba dari bulan
 print("Jumlah Laba Selama 8 Bulan: ",z) - menampilkan hasil dari jumlah laba
 
 # input
+![Screenshot_387](https://user-images.githubusercontent.com/81457697/141059179-000d2b86-fceb-494c-99c2-6130871c397b.png)
+
+# output
+![Screenshot_388](https://user-images.githubusercontent.com/81457697/141059194-d18a538c-0885-4155-bc23-6edc9cbf7421.png)
 
