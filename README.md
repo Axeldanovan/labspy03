@@ -2,7 +2,7 @@
 
 # Latihan 1
 # Program Untuk Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
-# Flowchart Program
+# Flowchart 
 
 berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang lebih kecil dari 0.5
 
@@ -59,8 +59,10 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 
 # program 1
 # Membuat program sederhana dengan perulangan 
+
 # flowchart
 ![Screenshot_385](https://user-images.githubusercontent.com/81457697/141057529-34bda7dd-8aa5-49db-9cff-e96ee89fe989.png)
+
 ![Screenshot_386](https://user-images.githubusercontent.com/81457697/141057546-ab05d455-0466-4e8e-9f76-8f6a6e51e179.png)
 
 
