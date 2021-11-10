@@ -20,3 +20,10 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 
 #output 
 ![Screenshot_378](https://user-images.githubusercontent.com/81457697/141039597-e52879ac-fe02-463e-bdc3-e88d5f9e73c2.png)
+
+# latihan 2
+# Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
+ flowchart program
+ Berikut flowchar untuk program menampilkan bilangan tersbesar dari n buah data yang diinputkan
+ ![Screenshot_379](https://user-images.githubusercontent.com/81457697/141052034-7043f925-5076-4540-a9be-07d910b4bd1d.png)
+![Screenshot_380](https://user-images.githubusercontent.com/81457697/141052040-2d83fad6-a905-4690-a695-23322e6ac45d.png)
