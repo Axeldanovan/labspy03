@@ -25,5 +25,5 @@ berikut flowchart dari program latihan 1, untuk menampilkan n bilangan acak yang
 # Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
  flowchart program
  Berikut flowchar untuk program menampilkan bilangan tersbesar dari n buah data yang diinputkan
- ![Screenshot_379](https://user-images.githubusercontent.com/81457697/141052034-7043f925-5076-4540-a9be-07d910b4bd1d.png)
-![Screenshot_380](https://user-images.githubusercontent.com/81457697/141052040-2d83fad6-a905-4690-a695-23322e6ac45d.png)
+![Screenshot_381](https://user-images.githubusercontent.com/81457697/141052320-f74445bc-b5bf-465a-8f59-8dd6f3f04d71.png)
+![Screenshot_382](https://user-images.githubusercontent.com/81457697/141052345-af669fe0-ca0c-40ee-9429-e5f40c97364f.png)
